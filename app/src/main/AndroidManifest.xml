@@ -43,7 +43,7 @@
         </activity>
         <meta-data
             android:name="com.example.apikey"
-            android:value="0b95f9ba515419be6f41e7d69895ee64" />
+            android:value="***Your API KEY***" />    //Todo
     </application>
 
 </manifest>
